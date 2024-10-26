@@ -1,9 +1,10 @@
 
 # DIY Arduino Robot Arm with Smartphone Control
 
-This project is a DIY Arduino-based robot arm that can be controlled using a smartphone via Bluetooth. The robot arm is built following a tutorial from the [How To Mechatronics](https://youtu.be/_B3gWd3A_SI?si=QRjI8GuJddnL_q8G) YouTube channel. It features six degrees of freedom, allowing for a wide range of movements, and is controlled using an Arduino Uno R3 microcontroller.
+This project is about a DIY Arduino-based robot arm that can be controlled using a smartphone via Bluetooth. The robot arm is built following a tutorial from the [How To Mechatronics](https://youtu.be/_B3gWd3A_SI?si=QRjI8GuJddnL_q8G) YouTube channel. It features six degrees of freedom, allowing for a wide range of movements, and is controlled using an Arduino Uno R3 microcontroller.
 
-![Robot Arm Image](image_link_here)
+<img src= "IMG20240219183011.jpg">
+
 
 ## Features
 - **6-DOF Robot Arm:** The arm has six servo motors that enable complex movements.
